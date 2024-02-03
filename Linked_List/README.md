@@ -7,5 +7,5 @@ insertion_in_LL
 Here we insert data in a linked list using 4 methods
 1. insertion at head
 2. insertion at an index
-3. insertion at the end od linkedlist
+3. insertion at the end of LinkedList
 4. insertion using any node
