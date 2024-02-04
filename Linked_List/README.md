@@ -9,3 +9,6 @@ Here we insert data in a linked list using 4 methods
 2. insertion at an index
 3. insertion at the end of LinkedList
 4. insertion using any node
+
+deletion_in_LL.c 
+Here we show how we can remove any data from linked list with different methods same as we inserted them in the linked list
