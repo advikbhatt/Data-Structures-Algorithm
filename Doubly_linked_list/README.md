@@ -1,0 +1,1 @@
+This here shows how the double linked lists are formed after understanding the concept of single linked list same as that of single one only with the addition of the previous node we can easily perfom all the same operations and programs on the double linked list
